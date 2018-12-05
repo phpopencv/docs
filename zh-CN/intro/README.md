@@ -16,7 +16,7 @@ PHPOpenCV是一个基于OpenCV C\C++版接口开发的PHP扩展，可以理解�
 例如：图片处理，物体检测识别，追踪等。
 更具体的应用：`人脸识别`，`身份证识别`，`车牌识别`，`自动驾驶`等。
 
-![1](../../images/getting_started/index/1.jpg)
+![1](../images/getting_started/index/1.jpg?raw=true)
 
 ## PHPOpenCV优势
 
@@ -36,7 +36,7 @@ PHPOpenCV是一个基于OpenCV C\C++版接口开发的PHP扩展，可以理解�
 
 准备好了吗？
 
-![2](../../images/getting_started/index/2.png)
+![2](../images/getting_started/index/2.png?raw=true)
 
 ## 关于作者
 

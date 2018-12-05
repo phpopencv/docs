@@ -19,7 +19,7 @@ Even if it is a tool that can be developed to work as a computer eye, then it is
 For example: `image processing`, `object detection` and `recognition`, `tracking`, etc.  
 More specific applications: `Face Recognition`, `ID card identification`, `Car license recognition`, `Automatic driving` and so on.
 
-![1](../../images/getting_started/index/1.jpg)
+![1](../images/getting_started/index/1.jpg?raw=true)
 
 ## Why PHPOpenCV?
 
@@ -39,7 +39,7 @@ Don't hesitate anymore, this tutorial is for you!
 
 Ready?
 
-![2](../../images/getting_started/index/2.png)
+![2](../images/getting_started/index/2.png?raw=true)
 
 ## About the author
 
