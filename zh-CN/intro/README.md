@@ -1,5 +1,4 @@
-title: 文档
----
+# PHPOpenCV简介
 
 欢迎使用 PHPOpenCV，本文档将帮助您快速上手。如果您在使用过程中遇到问题，请在 [GitHub](https://github.com/hihozhou/php-opencv/issues)上提问。
 
