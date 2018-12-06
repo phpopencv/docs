@@ -39,7 +39,7 @@ PHPOpenCV是一个基于OpenCV C\C++版接口开发的PHP扩展，可以理解�
 
 ## 关于作者
 
-周海浩，[PHPOpenCV](https://github.com/hihozhou/php-opencv)项目作者及发起人，php扩展开发者，某不知名公司技术总监。
+周海浩，[PHPOpenCV](https://github.com/hihozhou/php-opencv)项目作者及发起人，php扩展开发者。
 - [github](https://github.com/hihozhou/php-opencv)，欢迎交流
 
 

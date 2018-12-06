@@ -1,4 +1,5 @@
-* [PHPOpenCV 简介](intro/README.md)
+* [PHPOpenCV](README.md)
+  * [简介](intro/README.md)
   * [为PHPOpenCV贡献](intro/contributing.md)
-  * [发布版本](intro/releases.md)
+  * [版本更新](intro/releases.md)
 * [FAQ](faq/FAQ.md)
