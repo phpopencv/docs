@@ -8,4 +8,5 @@
 * 开始使用 
   * [结构](getting_started/structure.md)
   * [开放前准备](getting_started/dev_prepare.md)
+  * [快速上手](getting_started/quick_start.md)
 * [FAQ](faq/FAQ.md)
