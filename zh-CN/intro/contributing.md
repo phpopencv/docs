@@ -5,5 +5,5 @@ PHPOpenCV是php计算机科学领域中少有的其中一个扩展，非商业�
 - [PHPOpenCV源码贡献](https://github.com/hihozhou/php-opencv)
 - [提交Issues](https://github.com/hihozhou/php-opencv/issues)
 - 官网维护
-- 文档维护
+- [文档维护](https://github.com/phpopencv/docs)
 - 社区维护

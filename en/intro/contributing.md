@@ -5,5 +5,5 @@ There are many ways to join PHPOpenCV:
 - [PHPOpenCV source contribution](https://github.com/hihozhou/php-opencv)
 - [Issues](https://github.com/hihozhou/php-opencv/issues)
 - Official website maintenance
-- Document maintenance
+- [Document maintenance](https://github.com/phpopencv/docs)
 - Community maintenance

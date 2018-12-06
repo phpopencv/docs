@@ -5,4 +5,5 @@
 * 安装
   * [安装OpenCV](getting_started/install_opencv.md)
   * [安装PHPOpenCV扩展](getting_started/install_phpopencv.md)
+* [结构](getting_started/structure.md)
 * [FAQ](faq/FAQ.md)
