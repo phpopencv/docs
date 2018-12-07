@@ -11,4 +11,5 @@
   * [快速上手](getting_started/quick_start.md)
 * 核心模块
   * [Mat - 基本图像容器](core/mat.md)
+  * [图像的基本操作](core/basic_ops.md)
 * [FAQ](faq/FAQ.md)
