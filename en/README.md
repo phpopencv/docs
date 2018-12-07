@@ -1,8 +1,8 @@
 # PHPOpenCV
 
 ## Purpose
-PHP has reached the peak of the world in the field of web development, but in the aspect of artificial intelligence, it lacks a lot of Python, C++, etc.
-The available libraries, so implement the PHP version of OpenCV based on the C\C++ interface to enrich the field of php.
+PHP has reached the peak of network development in the field of network development, but in terms of artificial intelligence, compared with languages such as python and C++, lack of libraries that can be used.
+So based on the Ç\C++ interface to implement the PHP version of OpenCV, to enrich the field of PHP in this area.
 
 ## Community & Communication
 Currently there is no maintenance of qq group or WeChat group, but if you have any questions, you can use [Email](hihozhou@gmail.com) or [Issue](https://github.com/hihozhou/php-opencv/issues).
