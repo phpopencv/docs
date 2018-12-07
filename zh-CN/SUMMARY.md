@@ -9,4 +9,6 @@
   * [结构](getting_started/structure.md)
   * [开放前准备](getting_started/dev_prepare.md)
   * [快速上手](getting_started/quick_start.md)
+* 核心模块
+  * [Mat - 基本图像容器](core/mat.md)
 * [FAQ](faq/FAQ.md)

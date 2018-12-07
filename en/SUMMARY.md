@@ -9,4 +9,6 @@
   * [Structure](getting_started/structure.md)
   * [Preparation](getting_started/dev_prepare.md)
   * [Quick start](getting_started/quick_start.md)
+* The Core Functionality (core module)
+  * [Mat - The Basic Image Container](core/mat.md)
 * [FAQ](faq/FAQ.md)
